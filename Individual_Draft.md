@@ -16,5 +16,10 @@ Artificial Intelligence and robotics are digital technologies that has a major i
 * As robotics are human made, they are prone to articial problems. Teaching a robot to think like us can become complex and cause issues when the situation is not programmed or known to the robot.
 * Will robotics have rights as humans as they also think like us? as these robotics can think like us will they be treated like humans and will their rights be valid just like us?
 
+## References
+Legal issues: https://www.bimplus.co.uk/robotics-legal-issues/
+Ethical issues: https://www.peoplebank.com.au/blog/2017/11/all-the-ethical-questions-surrounding-ai-and-robot-employees
+
+
 
 
