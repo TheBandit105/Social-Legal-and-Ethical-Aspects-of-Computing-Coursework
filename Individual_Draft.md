@@ -16,7 +16,7 @@ Although the use of AI and robotics in medical practices has a lot of advantges 
 
 One factor that falls under the four pillars of medical ethics is justice which needs to be taken into account when creating algorithmic AI systems. This is because there could be a risk with AI being biased and therefore lead to discrimination due to the fact that human-trained algorithms could include datasets from a biased standpoint. 
 
-
+Data privacy issues also need to be considered when dealing with AI in the medical field for patient confidentiality, which means patients need to be informed how and where their data is being used and also consent for their data to be used. 
 
 
 ### References
