@@ -2,7 +2,7 @@
 
 ## Challenges in robotic and AI assisted medical procedures and rehabilitation
 
-### Advantages of robotic and AI in medical practices
+### Abstract
 
 
 
