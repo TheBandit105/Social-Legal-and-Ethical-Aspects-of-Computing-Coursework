@@ -14,6 +14,9 @@ An ethical issue that arises from sending robots to war is its relationship with
 Furthermore, giving the robots decision-making attributes during war situations means that the robots are more liable for any and every decision that they make. However, on the other hand, the robots would not have emotions, adrenaline and stress that would normally lead to wrong decisions and actions being made, meaning more ethically correctly decisions could be made much more quickly and efficiently than by a human soldier.
 
 ### Social Aspects
+One social issue that arises from sending robots to war is public trust in the robots. For many decades, many science fiction novels and movies, such as "Alita: Battle Angel", "Wall-E", "Iron Man" and "Transformers", have captured the imaginations of the public. However, all these works that utilise robots is in tension with the ethics and humankind's survivability, which instills concerns in the public about robots.
+
+By making technical advances in robotics, they are being incorporated into literary and theatrical works. This means that the worries that the public already have about robots will develop into close scrutiny of the robotics industry.
 
 ## References
 - https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac
