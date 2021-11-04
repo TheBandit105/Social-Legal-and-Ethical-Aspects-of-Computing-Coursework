@@ -12,6 +12,6 @@ Although the use of AI and robotics in medical practices has a lot of advantges 
 
 ### References
 
-* [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
+* [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
 
 
