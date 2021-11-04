@@ -1,6 +1,6 @@
 # Draft Report for Daniyal Abbas
 
-## Issues arising from https://www.sciencedaily.com/releases/2021/10/211026124247.htm
+## Issues arising from Robotics being taught to think like us
 
 Artificial Intelligence and robotics are digital technologies that has a major importance on the development of the future and how we humans will live them and process these changes. Due to their functionality and importance, alot of ethical and legal issues have been arised and are arising on how they work, what they work with, the risks involved and the control of it.
 
@@ -17,6 +17,7 @@ Artificial Intelligence and robotics are digital technologies that has a major i
 * Will robotics have rights as humans as they also think like us? as these robotics can think like us will they be treated like humans and will their rights be valid just like us?
 
 ## References
+Main Source: https://www.sciencedaily.com/releases/2021/10/211026124247.htm
 Legal issues: https://www.bimplus.co.uk/robotics-legal-issues/
 Ethical issues: https://www.peoplebank.com.au/blog/2017/11/all-the-ethical-questions-surrounding-ai-and-robot-employees
 
