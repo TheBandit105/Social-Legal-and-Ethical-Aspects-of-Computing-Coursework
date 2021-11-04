@@ -1,4 +1,10 @@
 # Draft report for Romario Beyene
 
-## Ethical factors arising in robotic assisted medical rehabilitation 
+## Problems arising in robotic assisted medical rehabilitation
+
+### Legal Aspects
+
+### Ethical Aspects 
+
+
 
