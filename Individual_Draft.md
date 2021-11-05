@@ -21,6 +21,8 @@ Data privacy issues also need to be considered when dealing with AI in the medic
 
 ### References
 
+* [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html). 
+
 * [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
 
 
