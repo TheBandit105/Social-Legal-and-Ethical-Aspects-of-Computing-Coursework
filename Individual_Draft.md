@@ -1,3 +1,10 @@
+Module Code: CS3SC17
+Assignment report Title: Individual Draft
+Student Number (e.g. 25098635): 27015244
+Date (when the work completed): 04/11/21
+Actual hrs spent for the assignment: 6 hours
+Assignment evaluation (3 key points): Found some interesting points about the ethical aspects of sending robots to war.
+
 # Draft Report for Shavin Croos
 ## Issues arising from Military Usage of Robots
 
