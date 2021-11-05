@@ -4,7 +4,7 @@
 
 ### Abstract
 
-
+Throughout the movie "Alita: Battle Angel", we can see a big transition in the advancement of AI and robotics for medical procedures. The use of AI and robotics in clinical practices displays many advantages such as a reduction in human error, more precise diagnosis, a reliable monitoring of a patient's progress. However, there were many legal and ethical factors that were raised when seeing AI and robots being used in medical assisted procedures and rehabilitation.
 
 ### Legal Aspects
 
