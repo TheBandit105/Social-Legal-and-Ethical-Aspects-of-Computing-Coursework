@@ -22,6 +22,11 @@ Whilst the progress in making the robots intelligent from 1940s to the 1990s is 
 
 First, we would need to find a way to connect the human head to the robotic body, which could be seen as ethically and morally wrong. This is because some religions, such as Islam dictate that the human body should be treated with the upmost respect and no harm should come to it.
 
+### Minds
+
+As the world tries to find newer and more efficient ways of creating robotics, one of the main topics involving robotics is the ability for them to think as humans and become as similar as possible. Due to robotics being programmed as algorithms to be used on everyday tasks or specific tasks, scientists are outlining how a robot can be taught to navigate a maze by using electric flows serving as brain nerve cells connected to the machine.
+
+Whilst its morally wrong as some religions would see this as playing as 'god' its also ethically wrong as the questions goes; will robots be able to tell the difference between us and them?. In the movie 'Alita:Battle Angel', it is shown the world being insanely advanced technologically and shows robotics in the form of citizen protection. If these sort of robotics existed in the real world, it would arise many questions, one being will it be able to make the correct choice instead of following a script such as if criminal, arrest as the movie showed a similar situation to which the robot followed through the wrong decision for the plot. This shows the robot was following an alogrithmic mindset instead of being able to process like us and seeing how an algorithm can be faulty, giving robotics the ability to make their own decisions and 'live' will cause robotics to step away for the real purpose their created.  Another seen in the movie shows the robot almost stepping on a dog and the main character, showing we humans would have to avoid the robots as they won't think of us as objects to avoid.
 
 ## Conclusion
 
