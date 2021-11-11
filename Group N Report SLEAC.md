@@ -10,6 +10,8 @@ Assignment evaluation (3 key points): TBD<br>
 
 ## Introduction
 
+The main topic of the report was that we discussed about the robots in general. We looked into different aspects of the robots and how it will impact our societies in the future. Subtopics include the military, police, health etc.
+
 ## Analysis
 
 For this section, you can add subheadings as needed depending on what is discussed here.
