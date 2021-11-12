@@ -30,6 +30,9 @@ Whilst its morally wrong as some religions would see this as playing as 'god' it
 
 Alongside the negatives about the idea of robotics being able to think like us, it can also be beneficial. As shown in the movie, the robotics in role protect most civilians and is used as a way of protection as the movie also references that the police do not exist and is about bounty hunters and these protecting machines. If these machines were to be implemented in real life situations it can protect people and reduce crime in the future. Alongside cyborgs exisiting, while having the ability to think like us, it means these cyborgs can live amongst us and also help us with daily tasks and more.
 
+### Medicine & Rehabilitaion
+
+
 ## Conclusion
 
 ## References
