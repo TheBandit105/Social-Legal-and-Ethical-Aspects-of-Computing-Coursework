@@ -20,12 +20,16 @@ WW2 is a great example of the first use of robotics in warfare. Robots, like US'
 
 Whilst the progress in making the robots intelligent from 1940s to the 1990s is quite incredible, such robots don't have the capacity to react appropriately in unpredictable scenarios. This has a lot of legal issues behind this as this could lead to the human personnel getting involved to stop the robots from causing unwanted damage. If we were to develop a body like the 'Berserker' in 'Alita:Battle Angel', it would have legal and ethical impacts. 
 
-First, we would need to find a way to connect the human head to the robotic body, which could be seen as ethically and morally wrong. This is because some religions, such as Islam dictate that the human body should be treated with the upmost respect and no harm should come to it.
+First, a method of connecting the human head to a robotic body, which could potentially be ethically and morally wrong. This is because religions, such as Islam dictate that the human body should be treated with the upmost respect and no harm should come to it.
 
 It has also been shown that the question of armed autonomous machines within the context of law enforcement services. There are a lot of implications with law enforcement utilising robots for situations that may involve the use of weapons. The primary issue with this is potentially allowing an individuals life be determined by an algorithm. Given robots do not have conscience their actions are determined by algorithms they are programmed with. Due to the exact nature of an algorithm this removes context from situations which could lead to an increase in deaths caused by law enforcement services. It also leads to the question of who's at fault in the situation of an error.
 
 Armed robots for law enforcement also cause a shift in the social view of law enforcement, with a larger adoption of machines for law enforcement purpose this could cause a de-humanisation of the law enforcement. De-humanisation could lead to a greater divide between the people and the Government, this is evident already from reports.
 >New York City councilmember Ben Kallos says he "watched in horror" last month when city police responded to a hostage situation in the Bronx using Boston Dynamics' Digidog, a remotely operated robotic dog equipped with surveillance cameras.
+
+Key questions with regards to the legality autonomous machine are already being considered such as what "Reasonable force" would be for a machine. Some areas are even creating legal documents to directly address this issue such as within New York.
+
+There is also the social aspect of robotics being used within the police force. The key concern here is whether a machine would enforce true equality. Depending on the data that the machines have been trained on their could be potential bias within the data leading to inequality when it comes to correctly identify illegal activity. This presents the problem of how to handle human bias within a machine. Given a situation where a human officer would have to make a decision that would reflect their personality, a machine is unable to reason to this degree and could lead to incorrect outcomes.
 
 Despite the concerns surrounding the implementation of autonomous machines within the police force there are several potential benefits to this approach. The main benefit of using a machine in place of a human is it reduces the frequency of casualties for the police force. Similarly allowing machines to deal with the more dangerous situations it would allow human officers to focus more on the general wellbeing of the public. Another viewpoint could be due to the algorithmic nature of machines there may be a social perception that machines are more consistent and efficient in contrast to the viewpoint that police officers are lazy, there is also the idea that a robot would have less error in comparison to a human officer, whilst this isn't necessarily true the general perception of robots is that they are consistent and accurate.
 
@@ -51,4 +55,6 @@ Another consideration is how to establish when a machine is suitable enough to b
 ## References
 
 * [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
-*[The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
+* [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
+* [A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
+* [Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
