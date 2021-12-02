@@ -43,7 +43,7 @@ Alongside the negatives surrounding robotic decision processes, it can also be b
 
 ### Medicine & Rehabilitaion
 
-As technology continues to improve it gradually becomes embedded within all sectors. The medical sector is a clear example of this, a key area of aritificial intelligence for computer vision is to identify medical images. The current technology within the medical sector predominantly acts as an assistant for a qualified individuals.
+As technology continues to improve it gradually becomes embedded within all sectors. The medical sector is a clear example of this, a key area of artificial intelligence for computer vision is to identify medical images. The current technology within the medical sector predominantly acts as an assistant for a qualified individual.
 >The robotic system in surgery is currently a robotic-assisted operation; a slave device that is nothing more than a tool and an extension of the surgeon (12).
 
 Whilst fully autonomous machines are not used within surgeries currently there are still a significant number of factors to evaluate if it could be achieved. From the perspective of the general public there are several different perspectives to be considered and how comfortable a patient would feel being treated by a robot reflect this. From one perspective there could potentially be a lack of trust in the machine in performing the surgery needed, this could be due to a lack of faith within the technology the robot consists of. 
