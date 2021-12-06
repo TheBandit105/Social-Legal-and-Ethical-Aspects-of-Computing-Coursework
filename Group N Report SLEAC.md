@@ -56,6 +56,8 @@ Another consideration is how to establish when a machine is suitable enough to b
 
 ## Conclusion
 
+This report has established that a significant amount of consideration must be taken into account as the proficiency and ability of autonomous machines develop. A key aspect is the social impact these machines could provide as well as how society perceives these developments. These developments span a large range of sectors and has the potential to change how people operate daily. One common point established is societies current reservations surrounding machines replacing humans in particular roles due to the fear of faults. Similarly as the roles machines occupy within society become more important, regulations will need developing to restrict how much ability machines have.
+
 ## References
 
 * [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
