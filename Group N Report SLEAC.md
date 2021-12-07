@@ -68,3 +68,9 @@ This report has established that a significant amount of consideration must be t
 * [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
 * [A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
 * [Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
+* [Intelligence, A., 2020. Stories of AI Failure and How to Avoid Similar AI Fails - Lexalytics.](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020).
+* [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
+* [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html). 
+
+
+
