@@ -66,8 +66,8 @@ This report has established that a significant amount of consideration must be t
 
 ## References
 
-* [Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
-* https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/
+* [Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/)
+* [Lin, P., Bekey, G., Abney, K. (2009). Robots in War: Issues of Risk and Ethics.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
 * [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
 * [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
 * [A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
