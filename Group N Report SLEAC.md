@@ -60,6 +60,16 @@ Whilst fully autonomous machines are not used within surgeries currently there a
 
 Another consideration is how to establish when a machine is suitable enough to be deployed within a real environment. For surgeries that could lead to fatality if done wrong how would a robot be trained to handle the situation, further to this point how certain can a manufacturer be that the training transfers directly to operating on a human patient.
 
+## Issues arising from using modern robotics in our daily lifestyle
+
+Society has always been concerned about the impact of modern robotics. There are bunch of positive features but at the same time there are some arising issues that may reflect seriously on the world community such as:
+- possibilities of programming errors occurrence or other serious problems that could make robots unpredictable and even dangerous for people themselves. 
+- some power sources that have a direct communication with robots can bе disrupted, hence this can produce an energy releasing.
+- mechanical failures should also be considered during the robot design stage because this mistake can also lead to a potentially dangerous situation for the surrounding people.
+The consequences of the above-mentioned issues can be noticed in the movie ,,Alita: Battle Angel’’ 2019 which is completely focused on presenting how people live along with the robots and other AI technologies several centuries in the future.
+Furthermore, there are lots of social, legal and ethical issues which can affect our life – growing dehumanization in physical facilities and stores, disappearance of jobs, misinformation and fake news, lack of trust and many others.
+(THE SECTION IS NOT READY YET!)
+
 ## Conclusion
 
 This report has established that a significant amount of consideration must be taken into account as the proficiency and ability of autonomous machines develop. A key aspect is the social impact these machines could provide as well as how society perceives these developments. These developments span a large range of sectors and has the potential to change how people operate daily. One common point established is societies current reservations surrounding machines replacing humans in particular roles due to the fear of faults. Similarly, as the roles machines occupy within society become more important, regulations will need developing to restrict how much ability machines have. Another point discussed in this report is although robots and AI are being used to reduce human error, AI systems and robots are just human-trained algorithms with datasets that may not represent every demographic of a population, which will lead to biases and discrimination. 
