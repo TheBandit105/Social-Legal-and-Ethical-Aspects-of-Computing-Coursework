@@ -66,7 +66,7 @@ This report has established that a significant amount of consideration must be t
 
 ## References
 
-* [LSE]https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac
+* [Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
 * https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/
 * [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
 * [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
