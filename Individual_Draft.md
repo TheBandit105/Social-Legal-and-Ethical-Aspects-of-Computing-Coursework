@@ -28,6 +28,10 @@ Utilisation of machines to replace a human operator in certain situations provid
 
 Despite the ethical issues associated, to make a definitive decision on the suitability of inclusion of these armed machines the benefits the machines produce would also have to be evaluated. The key benefit of utilising armed robots within dangerous situations would be officers are in situations that could lead to injury less frequently. Similarly with machines being given a more substantial role within policing it provides human officers more time to focus on jobs that may have frequently gone overlooked before due to the priority it preventing crimes that could lead to loss in life. 
 
+## Conclusions 
+
+To conclude as machines become more sophisticated and are granted a greater responsibility within society a great amount of aspects of life will need to adapt to these developments. One key discussion will be the general perception of robots when used for situations of agression. A significant amount of the public will be against the automation of armed policing due to fears of a goverment gaining further control over it's citizens. Despite these concerns the potential lives saved from police avoiding dangerous situations will not only allow for the forces to work more effectively on different crimes but also lead to a greater quality of living for police officers.
+
 ## References
 
 * [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")‌
