@@ -73,7 +73,7 @@ Whilst fully autonomous machines are not used within surgeries currently there a
 
 Another consideration is how to establish when a machine is suitable enough to be deployed within a real environment. For surgeries that could lead to fatality if done wrong how would a robot be trained to handle the situation, further to this point how certain can a manufacturer be that the training transfers directly to operating on a human patient.
 
-## Issues of using modern robotics nowadays
+## Main Issues of Using Modern Robotics and AI Nowadays
 
 Society has always been concerned about the impact of modern robotics on normal life. There are a bunch of positive features which may help for a reduction in human errors, developing the level of digital assistance, inventing new and faster technologies and others but at the same time, there are some arising issues that may reflect seriously on the world community.
 
