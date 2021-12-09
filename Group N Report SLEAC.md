@@ -43,6 +43,8 @@ Whilst it could be considered morally wrong with some religions due to the view 
 
 Alongside the negatives surrounding robotic decision processes, it can also be beneficial. As shown in the movie, the robotics in role protect most civilians and is used as a way of protection as the movie also references that the police do not exist and is about bounty hunters and these protecting machines. If these machines were to be implemented in real life situations it can protect people and reduce crime in the future. Alongside cyborgs existing, while having the ability to think like us, it means these cyborgs can live amongst us and also help us with daily tasks and more.
 
+Another advantage of having robots integrated in our society is that they could do jobs which are deemed to be dangerous jobs for humans and also have the ability to work in unsafe environments. Although this may be controversial as it may increase unemployment for people working in these particular sectors, but on the other hand this can help a lot of companies reduce many accidents taking place in the workspace. Robots could also carry out tasks that may take many employees a long time to accomplish such as carrying heavy equipment and handling hazardous substances, so using robots could save a lot of time and money for companies.
+
 ### Medicine & Rehabilitation
 
 Throughout the movie “Alita: Battle Angel”, we see a substantial advancement in medicine and rehabilitation using AI and robotics. Some of the main advantages shown whilst using AI and robotics in clinical practices was that there is a reduction in human errors, more precise diagnosis and a more reliable way of monitoring patient’s records/progress. 
