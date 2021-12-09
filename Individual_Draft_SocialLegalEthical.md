@@ -22,6 +22,8 @@ As robotics are human made, they are prone to articial problems. Teaching a robo
 
 Will robotics have rights as humans as they also think like us? as this robotics can think like us will they be treated like humans, and will their rights be valid just like us? These all are questions to which humans would ask in the future becoming a norm for robotic AI’s as it does question our own morals as we already treat all living organisms thus if robotics think like us and are like us, would they be considered as living organisms? Because if that’s the case, it would divide the world especially in religion as this would be considered an act in playing as god.
 
+One of many issues ethically is what if it becomes a norm for robotic AI’s to think like us, feel like us and become like us, would they be considered as living organisms? Because if that’s the case, it would divide the world especially in religion as this would be considered an act in playing as god. As this majorly affects religious ethics, it would be denied to be accepted into society by multiple groups of people, if they were added to society however they would be treated as other living organisms such as animals but not be related to humans in any form or factor, thus only a minority of religious groups then accepting robotics with a different title.
+
 ## References
 * Main Source: https://www.sciencedaily.com/releases/2021/10/211026124247.htm
 * Legal issues: https://www.bimplus.co.uk/robotics-legal-issues/
