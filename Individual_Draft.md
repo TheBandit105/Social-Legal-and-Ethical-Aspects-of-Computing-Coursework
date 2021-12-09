@@ -36,6 +36,11 @@ Similarly to addressing the more repetitive tasks use within more involved situa
 > Leave humans to make important decisions
 One interesting observation that the UK government are taken to gradually increase automation within the police is to prioritise humans to make the key decisions and similarly ensuring that any robotic activity is clearly recorded. This approach directly addresses some of the issues raised within the report, it provides clear goals as well as informs society that this process is being considered carefully and any faults caused by robots can be directly linked to them.
 
+>Law enforcement agencies should dedicate time to identify, structure, categorize
+and share their needs in terms of AI and robotics, so as to facilitate the development
+of projects
+All of these aspects are gradually being considered as the reality of autonomous armed machines progresses. On issue within the system is AI and robotics are a rapidly developing area creating further difficulties in regards to adapting to the technology. This presents a challenge that will need to be overcome if the police force aims to utilise AI and robotics to its full potential. 
+
 ## Conclusions 
 
 To conclude as machines become more sophisticated and are granted a greater responsibility within society a great amount of aspects of life will need to adapt to these developments. One key discussion will be the general perception of robots when used for situations of agression. A significant amount of the public will be against the automation of armed policing due to fears of a goverment gaining further control over it's citizens. The process of robots becoming involved within the police force will be gradual and careful, there are a number of areas to consider and at each stage adjustment will be required from all parties involved.
@@ -44,4 +49,6 @@ To conclude as machines become more sophisticated and are granted a greater resp
 
 * [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")‌‌
 * [Cops and Robots: The 'new normal' for UK police with an automated workforce - Policing Insight‌‌](https://policinginsight.com/features/innovation/cops-and-robots-the-new-normal-for-uk-police-with-an-automated-workforce/‌)‌‌
+* [Europarl.europa.eu‌‌](https://www.europarl.europa.eu/cmsdata/196207/UNICRI%20-%20Artificial%20intelligence%20and%20robotics%20for%20law%20enforcement.pdf
+)
 ‌
