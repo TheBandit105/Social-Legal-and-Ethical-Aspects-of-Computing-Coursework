@@ -1,5 +1,22 @@
 # Draft Report for Daniyal Abbas
 
+Module Code: CS3SC17
+
+
+Assignment report Title: Individual Draft
+
+
+Student Number (e.g. 25098635): 28000034
+
+
+Date (when the work completed): 05/11/21 
+
+
+Actual hrs spent for the assignment: 10 hours
+
+
+Assignment evaluation (3 key points): Able to understand more about robotics and their ability to think like humans. Learnt about debates of robotics. Changed the way I thought about robotics.
+
 ## Issues arising from Robotics being taught to think like us
 
 Artificial Intelligence and robotics are digital technologies that has a major importance on the development of the future and how we humans will live them and process these changes. Due to their functionality and importance, alot of ethical and legal issues have been arised and are arising on how they work, what they work with, the risks involved and the control of it.
