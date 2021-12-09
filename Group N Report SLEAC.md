@@ -91,7 +91,11 @@ This report has established that a significant amount of consideration must be t
 * [Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
 * [Intelligence, A., 2020. Stories of AI Failure and How to Avoid Similar AI Fails - Lexalytics.](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020).
 * [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
-* [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html). 
+* [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html).
+* [The robots are coming!](https://www.insurancejournal.com/magazines/mag-features/2013/10/21/308188.htm).
+* [Miguel González-Fierro (2018, April 1). Ethical Issues Of Artificial Intelligence And Robotics.](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/).
+[(2019, September 28). The three laws of robotics have failed the robots.](https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/).    
+
 
 
 
