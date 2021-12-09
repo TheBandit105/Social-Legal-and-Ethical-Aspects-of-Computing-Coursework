@@ -3,6 +3,7 @@
 ## Issues arising from Robotics being taught to think like us
 
 Artificial Intelligence and robotics are digital technologies that has a major importance on the development of the future and how we humans will live them and process these changes. Due to their functionality and importance, alot of ethical and legal issues have been arised and are arising on how they work, what they work with, the risks involved and the control of it.
+As AI is created by humans, 
 
 ### Legal Aspects
 One of the main legal issues of these technologies is how privacy is inflicted. Depending on the work these AI and robotics handle, privacy is a concern to look out for. Privacy and surveillance has many concerns, the main being data access as almost all data is now digital due to data collection and is vulnerable to breachments.
@@ -20,7 +21,7 @@ Will robotics have rights as humans as they also think like us? as these robotic
 * Main Source: https://www.sciencedaily.com/releases/2021/10/211026124247.htm
 * Legal issues: https://www.bimplus.co.uk/robotics-legal-issues/
 * Ethical issues: https://www.peoplebank.com.au/blog/2017/11/all-the-ethical-questions-surrounding-ai-and-robot-employees
-
+* Info on robotic minds https://www.futurelearn.com/info/courses/begin-robotics/0/steps/2867
 
 
 
