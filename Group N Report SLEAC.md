@@ -88,19 +88,19 @@ This report has established that a significant amount of consideration must be t
 
 ## References
 
-* [Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/)
-* [Lin, P., Bekey, G., Abney, K. (2009). Robots in War: Issues of Risk and Ethics.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
-* [Soffar, H. Online Sciences (2019, June 22). Army robots types, advantages, disadvantages & how do Artificial soldiers change the future of war?](https://www.online-sciences.com/robotics/army-robots-types-advantages-disadvantages-how-do-artificial-soldiers-change-the-future-of-war/)
-* [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
-* [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
-* [A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
-* [Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
-* [Intelligence, A., 2020. Stories of AI Failure and How to Avoid Similar AI Fails - Lexalytics.](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020).
-* [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
-* [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html).
-* [The robots are coming!](https://www.insurancejournal.com/magazines/mag-features/2013/10/21/308188.htm).
-* [Miguel González-Fierro (2018, April 1). Ethical Issues Of Artificial Intelligence And Robotics.](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/).
-* [(2019, September 28). The three laws of robotics have failed the robots.](https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/).    
+[1] [Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/)
+[2] [Lin, P., Bekey, G., Abney, K. (2009). Robots in War: Issues of Risk and Ethics.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
+[3] [Soffar, H. Online Sciences (2019, June 22). Army robots types, advantages, disadvantages & how do Artificial soldiers change the future of war?](https://www.online-sciences.com/robotics/army-robots-types-advantages-disadvantages-how-do-artificial-soldiers-change-the-future-of-war/)
+[4] [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
+[5] [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
+[6] [A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
+[7] [Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
+[8] [Intelligence, A., 2020. Stories of AI Failure and How to Avoid Similar AI Fails - Lexalytics.](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020).
+[9] [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
+[10] [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html).
+[11] [The robots are coming!](https://www.insurancejournal.com/magazines/mag-features/2013/10/21/308188.htm).
+[12] [Miguel González-Fierro (2018, April 1). Ethical Issues Of Artificial Intelligence And Robotics.](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/).
+[13] [(2019, September 28). The three laws of robotics have failed the robots.](https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/).    
 
 
 
