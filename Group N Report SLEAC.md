@@ -22,11 +22,7 @@ Firstly, the method of connecting the human head to a robotic body could be pote
 
 Secondly, public trust in the robots and the robotics industry could be under close scrutiny as all works that use robots in the making creates tension with the ethics and mankind’s survivability, which causes the public to have concerns regarding robots. For example, if the robots from Alita: Battle Angel were to be sent to war, there might be the potential for the friendly robots to be hijacked. This could be seen as catastrophic as this would lead to more civilian casualties from both sides and could lead to people fearing robots more than they were before. Therefore, the companies that designs the war robots needs to convince the general public that the robots they design have the necessary protection systems and features that will work properly and will keep the public safe from harm. It also brings into question about the kind of consent such companies need from the general public in order to deploy such robots.
 
-
-
-
-
-
+Finally, 
 
 It has also been shown that the question of armed autonomous machines within the context of law enforcement services. There are a lot of implications with law enforcement utilising robots for situations that may involve the use of weapons. The primary issue with this is potentially allowing an individual's life to be determined by an algorithm. Given robots do not have conscience their actions are determined by algorithms they are programmed with. Due to the exact nature of an algorithm this removes context from situations which could lead to an increase in deaths caused by law enforcement services. It also leads to the question of who's at fault in the situation of an error.
 
