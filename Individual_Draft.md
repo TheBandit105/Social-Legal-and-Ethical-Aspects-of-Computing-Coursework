@@ -2,7 +2,7 @@
 
 ## Issues arising from Police Usage of armed robots
 
-As technology progresses and becomes more sophisticated their inclusion within societies increases. A key example of this is the involvement of autonomous machines within the police force. Whilst on the surface utilising machines seems reasonable issues arise as the tasks delegated to them becomes more involved. Machines armed with weapons creates a series of problems from both social, legal and ethical perspectives.
+As technology progresses and becomes more sophisticated their inclusion within societies increases. A key example of this is the involvement of autonomous machines within the police force. Whilst on the surface utilising machines seems reasonable issues arise as the tasks delegated to them become more involved. Machines armed with weapons create a series of problems from both social, legal and ethical perspectives.
 
 Alita: battle angel is a film set in the far future, within this reality there are autonomous machines living amongst humans like equals. Machines also take a large role within enforcing law within the society through means such as bounty hunting. The role machines have within Alita hold parallels with the potential roles machines are being considered for within our society providing a direct perspective of potential consequences of the adopting of advanced machinery within roles of high importance.
 
@@ -28,10 +28,20 @@ Utilisation of machines to replace a human operator in certain situations provid
 
 Despite the ethical issues associated, to make a definitive decision on the suitability of inclusion of these armed machines the benefits the machines produce would also have to be evaluated. The key benefit of utilising armed robots within dangerous situations would be officers are in situations that could lead to injury less frequently. Similarly with machines being given a more substantial role within policing it provides human officers more time to focus on jobs that may have frequently gone overlooked before due to the priority it preventing crimes that could lead to loss in life. 
 
+
+Despite the potential concerns surrounding robotics within policing the use of these machines can provide a significant amount of benefits. A signifcant topic of discussion currently is the proficiency lack of resources available within the police-force. In this regard utilising automation would provide a greater breadth of work that can be achieved within police force.
+> Successful robotic process automation (RPA) programmes tend to focus not on replacing jobs, but on automating repetitive tasks and processes wherever they are found. 
+Similarly to addressing the more repetitive tasks use within more involved situations that could lead to injury would provide benefit by reducing the number of injuries officers get during work. There are a large number of steps involved in embedding automation into any work environment. The main priority in the beginning involves ensuring the human operators can place most of their focus and productivity on the key tasks. This has the benefit of not compromising the jobs themselves which is a key concern for a lot of individuals in the context of automation and robotics.
+
+> Leave humans to make important decisions
+One interesting observation that the UK government are taken to gradually increase automation within the police is to prioritise humans to make the key decisions and similarly ensuring that any robotic activity is clearly recorded. This approach directly addresses some of the issues raised within the report, it provides clear goals as well as informs society that this process is being considered carefully and any faults caused by robots can be directly linked to them.
+
 ## Conclusions 
 
-To conclude as machines become more sophisticated and are granted a greater responsibility within society a great amount of aspects of life will need to adapt to these developments. One key discussion will be the general perception of robots when used for situations of agression. A significant amount of the public will be against the automation of armed policing due to fears of a goverment gaining further control over it's citizens. Despite these concerns the potential lives saved from police avoiding dangerous situations will not only allow for the forces to work more effectively on different crimes but also lead to a greater quality of living for police officers.
+To conclude as machines become more sophisticated and are granted a greater responsibility within society a great amount of aspects of life will need to adapt to these developments. One key discussion will be the general perception of robots when used for situations of agression. A significant amount of the public will be against the automation of armed policing due to fears of a goverment gaining further control over it's citizens. The process of robots becoming involved within the police force will be gradual and careful, there are a number of areas to consider and at each stage adjustment will be required from all parties involved.
 
 ## References
 
-* [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")‌
+* [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")‌‌
+* [Cops and Robots: The 'new normal' for UK police with an automated workforce - Policing Insight‌‌](https://policinginsight.com/features/innovation/cops-and-robots-the-new-normal-for-uk-police-with-an-automated-workforce/‌)‌‌
+‌
