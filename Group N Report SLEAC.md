@@ -30,13 +30,11 @@ On the other hand, war robots do have benefits to both military and civilian per
 It has also been shown that the question of armed autonomous machines within the context of law enforcement services. There are a lot of implications with law enforcement utilising robots for situations that may involve the use of weapons. The primary issue with this is potentially allowing an individual's life to be determined by an algorithm. Given robots do not have conscience their actions are determined by algorithms they are programmed with. Due to the exact nature of an algorithm this removes context from situations which could lead to an increase in deaths caused by law enforcement services. It also leads to the question of who's at fault in the situation of an error.
 
 Armed robots for law enforcement also cause a shift in the social view of law enforcement, with a larger adoption of machines for law enforcement purpose this could cause a de-humanisation of the law enforcement. De-humanisation could lead to a greater divide between the people and the Government, this is evident already from reports.
->New York City councilmember Ben Kallos says he "watched in horror" last month when city police responded to a hostage situation in the Bronx using Boston Dynamics' Digidog, a remotely operated robotic dog equipped with surveillance cameras.
+>New York City councilmember Ben Kallos says he "watched in horror" last month when city police responded to a hostage situation in the Bronx using Boston Dynamics' Digidog, a remotely operated robotic dog equipped with surveillance cameras.[4]
 
-Key questions with regards to the legality autonomous machine are already being considered such as what "Reasonable force" would be for a machine. Some areas are even creating legal documents to directly address this issue such as within New York.
+Key questions with regards to the legality autonomous machine are already being considered such as what "Reasonable force" would be for a machine. Some areas are even creating legal documents to directly address this issue such as within New York[5]. Furthermore there is also the social aspect of robotics being used within the police force. The key concern here is whether a machine would enforce true equality. Depending on the data that the machines have been trained on there could be potential bias within the data leading to inequality when it comes to correctly identify illegal activity. This presents the problem of how to handle human bias within a machine. Given a situation where a human officer would have to make a decision that would reflect their personality, a machine is unable to reason to this degree and could lead to incorrect outcomes.
 
-There is also the social aspect of robotics being used within the police force. The key concern here is whether a machine would enforce true equality. Depending on the data that the machines have been trained on there could be potential bias within the data leading to inequality when it comes to correctly identify illegal activity. This presents the problem of how to handle human bias within a machine. Given a situation where a human officer would have to make a decision that would reflect their personality, a machine is unable to reason to this degree and could lead to incorrect outcomes.
-
-Despite the concerns surrounding the implementation of autonomous machines within the police force there are several potential benefits to this approach. The main benefit of using a machine in place of a human is it reduces the frequency of casualties for the police force. Similarly allowing machines to deal with the more dangerous situations it would allow human officers to focus more on the general wellbeing of the public. Another viewpoint could be due to the algorithmic nature of machines there may be a social perception that machines are more consistent and efficient in contrast to the viewpoint that police officers are lazy, there is also the idea that a robot would have less error in comparison to a human officer, whilst this isn't necessarily true the general perception of robots is that they are consistent and accurate.
+Despite the concerns surrounding the implementation of autonomous machines within the police force there are several potential benefits to this approach. The main benefit of using a machine in place of a human is it reduces the frequency of casualties for the police force[6]. Similarly allowing machines to deal with the more dangerous situations it would allow human officers to focus more on the general wellbeing of the public. Another viewpoint could be due to the algorithmic nature of machines there may be a social perception that machines are more consistent and efficient in contrast to the viewpoint that police officers are lazy, there is also the idea that a robot would have less error in comparison to a human officer, whilst this isn't necessarily true the general perception of robots is that they are consistent and accurate.
 
 ### Minds
 
@@ -88,31 +86,19 @@ This report has established that a significant amount of consideration must be t
 
 ## References
 
-[1] [Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/)
-
-[2] [Lin, P., Bekey, G., Abney, K. (2009). Robots in War: Issues of Risk and Ethics.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
-
-[3] [Soffar, H. Online Sciences (2019, June 22). Army robots types, advantages, disadvantages & how do Artificial soldiers change the future of war?](https://www.online-sciences.com/robotics/army-robots-types-advantages-disadvantages-how-do-artificial-soldiers-change-the-future-of-war/)
-
-[4] [WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
-
-[5] [The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
-
-[6] [A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
-
-[7] [Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
-
-[8] [Intelligence, A., 2020. Stories of AI Failure and How to Avoid Similar AI Fails - Lexalytics.](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020).
-
-[9] [Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
-
-[10] [Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html).
-
-[11] [The robots are coming!](https://www.insurancejournal.com/magazines/mag-features/2013/10/21/308188.htm).
-
-[12] [Miguel González-Fierro (2018, April 1). Ethical Issues Of Artificial Intelligence And Robotics.](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/).
-
-[13] [(2019, September 28). The three laws of robotics have failed the robots.](https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/).    
+* [1][Batarseh, A. F., Kumar, A. LSE (2020, February 17). The use of robots and artificial intelligence in war.](https://blogs.lse.ac.uk/businessreview/2020/02/17/the-use-of-robots-and-artificial-intelligence-in-war/)
+* [2][Lin, P., Bekey, G., Abney, K. (2009). Robots in War: Issues of Risk and Ethics.](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac)
+* [3][Soffar, H. Online Sciences (2019, June 22). Army robots types, advantages, disadvantages & how do Artificial soldiers change the future of war?](https://www.online-sciences.com/robotics/army-robots-types-advantages-disadvantages-how-do-artificial-soldiers-change-the-future-of-war/)
+* [4][WIRED (2021). New York lawmaker wants to ban police use of armed robots.](https://arstechnica.com/tech-policy/2021/03/new-york-lawmaker-wants-to-ban-police-use-of-armed-robots/, "Ban of Police using robots")
+* [5][A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
+* [6][Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
+* [7][The ethics of robotic surgical systems is a conversation of informed consent](https://vats.amegroups.com/article/view/5469/html)
+* [8][Intelligence, A., 2020. Stories of AI Failure and How to Avoid Similar AI Fails - Lexalytics.](https://www.lexalytics.com/lexablog/stories-ai-failure-avoid-ai-fails-2020).
+* [9][Gerke, S., Minssen, T., &amp; Cohen, G. (2020, June 26). Ethical and legal challenges of artificial intelligence-driven healthcare. Artificial Intelligence in Healthcare.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/). 
+* [10][Wightman, S. C., David, E. A., Atay, S. M., Kim, A. W., &amp; Angelos, P. (2020, March 17). The ethics of Robotic Surgical Systems is a conversation of informed consent. Video-Assisted Thoracic Surgery.](https://vats.amegroups.com/article/view/5469/html).
+* [11][The robots are coming!](https://www.insurancejournal.com/magazines/mag-features/2013/10/21/308188.htm).
+* [12][Miguel González-Fierro (2018, April 1). Ethical Issues Of Artificial Intelligence And Robotics.](https://miguelgfierro.com/blog/2018/10-ethical-issues-of-artificial-intelligence-and-robotics/).
+* [13][(2019, September 28). The three laws of robotics have failed the robots.](https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/).    
 
 
 
