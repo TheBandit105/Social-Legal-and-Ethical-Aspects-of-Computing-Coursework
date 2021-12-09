@@ -62,12 +62,19 @@ Another consideration is how to establish when a machine is suitable enough to b
 
 ## Issues arising from using modern robotics in our daily lifestyle
 
-Society has always been concerned about the impact of modern robotics. There are bunch of positive features but at the same time there are some arising issues that may reflect seriously on the world community such as:
-- possibilities of programming errors occurrence or other serious problems that could make robots unpredictable and even dangerous for people themselves. 
-- some power sources that have a direct communication with robots can bе disrupted, hence this can produce an energy releasing.
+Society has always been concerned about the impact of modern robotics on the normal life. There are bunch of positive features which may help for reduction in human errors, developing the level of digital assistance, inventing new and faster technologies and others but at the same time there are some arising issues that may reflect seriously on the world community.
+
+Examples of severe consequences of the modern robotics and AI can be noticed in the movie ,,Alita: Battle Angel’’ 2019 which is mainly focused on presenting how people live along with robots and other AI technologies several centuries in the future.
+
+If we refer to some common situations in the movie, we can see that robots and AI are used on an equal footing with humans and participate in any kind of activities related to jobs, sports, entertainments, and others. The film demonstrates that robots play an integral role of the life on the planet and people have already allowed them to be too close to their habitat. However, we can notice a large number of scenes, proving that the excessive trust of modern robotics might have a serious counter-effect over the civilization as AI and robots can even become dangerous for people.
+All companies that produce AI and work with modern robotics try to implement the risk management bеyond legal requirements in order to reduce the chance of accidents that may lead to serious damages to their reputation. Engineers, from such companies, who deal with AI realize that modern robotics can be a huge risk not only for them but for the genеral public.
+
+Underneath are some serious issues that may lead to counter-effect over robots:
+- possibilities of programming errors occurrence, faulty algorithms, loss of connection and others could make robots unpredictable and even dangerous for people themselves. 
+- incorrect assembling of robot parts could make it functions wrong. For example, some power sources that have a direct communication with robots can bе disrupted because of the above-mentioned problem, hence this can produce an energy releasing in the atmosphere.
 - mechanical failures should also be considered during the robot design stage because this mistake can also lead to a potentially dangerous situation for the surrounding people.
-The consequences of the above-mentioned issues can be noticed in the movie ,,Alita: Battle Angel’’ 2019 which is completely focused on presenting how people live along with the robots and other AI technologies several centuries in the future.
-Furthermore, there are lots of social, legal and ethical issues which can affect our life – growing dehumanization in physical facilities and stores, disappearance of jobs, misinformation and fake news, lack of trust and many others.
+
+Those are the issues that could only be caused by inattention or lack of observance of the details. Below are listed some essential problems that are not a result of a human error in parts assembling or programming bugs in the algorithm of the robot management. The presented issues concern the whole way of humans’ life in social, legal and ethical aspects such as growing dehumanization in physical facilities and stores, disappearance of jobs, misinformation and fake news, lack of trust and others .
 (THE SECTION IS NOT READY YET!)
 
 ## Conclusion
