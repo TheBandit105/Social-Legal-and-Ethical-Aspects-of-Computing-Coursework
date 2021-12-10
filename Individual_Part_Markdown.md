@@ -56,5 +56,7 @@ Moreover, another social issue is the growing dehumanization all over the world.
 ### References:
 
 [1] https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/
+
 [2] https://www.oxfordeconomics.com/recent-releases/how-robots-change-the-world
+
 [3] https://www.sciencedirect.com/science/article/pii/S2666659620300056
