@@ -21,9 +21,12 @@ An ethical issue that arises from sending robots to war is its relationship with
 Furthermore, giving the robots decision-making attributes during war situations means that the robots are more liable for any and every decision that they make. However, on the other hand, the robots would not have emotions, adrenaline and stress that would normally lead to wrong decisions and actions being made, meaning more ethically correctly decisions could be made much more quickly and efficiently than by a human soldier.
 
 ### Social Aspects
-One social issue that arises from sending robots to war is public trust in the robots. For many decades, many science fiction novels and movies, such as "Alita: Battle Angel", "Wall-E", "Iron Man" and "Transformers", have captured the imaginations of the public. However, all these works that utilise robots is in tension with the ethics and humankind's survivability, which instills concerns in the public about robots.
+One social issue that arises from sending robots to war is public trust in the robots. For many decades, many science fiction novels and movies, such as "Alita: Battle Angel", "Wall-E", "Iron Man" and "Transformers", have captured the imaginations of the public. However, all these works that utilise robots is in tension with the ethics and humankind's survivability, which instills concerns in the public about robots. By making technical advances in robotics, they are being incorporated into literary and theatrical works. This means that the worries that the public already have about robots will develop into close scrutiny of the robotics industry.
 
-By making technical advances in robotics, they are being incorporated into literary and theatrical works. This means that the worries that the public already have about robots will develop into close scrutiny of the robotics industry.
+Whilst war robots can provide faster and more decisive victories than human soldiers can, the opponent will end up with increased defeats that are swifter than normal. This would raise the question if these increasing inequalities in warfare would lead to the opponents developing more desperate strategies and tactics to get the advantage over the country with the warfare. For instance, a country could end up increasing efforts to obtain nuclear or biochemical weapons.
+
+There is also the issue of other countries of learning and eventually developing war robots of their own. Most countries are already doing this already, with some already leading the US in some respects. This leads to the query of how one should terminate this treacherous cycle of arms proliferation.
 
 ## References
 - https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac
+- https://www.forbes.com/2009/06/18/military-robots-ethics-opinions-contributors-artificial-intelligence-09-patrick-lin.html?sh=5ecd932258da
