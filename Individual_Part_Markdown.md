@@ -20,7 +20,6 @@ Furthermore, there are lots of social, legal and ethical issues which can affect
 
 There are many questions that can occur when talking about legal aspects of modern robotics. 
 For example, if we take a look at the autopilot feature, provided by Tesla cars, we can immediately ask ourselves who will be responsible for any errors or defective work and more precisely who should be blamed if the autopilot causes harm to a person or a property (e.g., car crashes). 
-
 Another fact that can be described as a legal issue is the way robots can collect and store personal data. AI machines often respond to visual and audio signals by utilizing special microphones, cameras, or speakers. In this way, they might derive personal data which needs to be stored securely in order to prevent information leakage.
 
 Third social issue that should be taken into account is regarding to the robot behavior towards people. In case of any unexpected problems, caused by lack of attention during programming process in the algorithm, the robot itself might become aggressive and may be harmful for the surrounding objects and people. Issues like this could be a common part in the sphere of modern robotics, due to the dynamic of working with AI, hence in this case we start wondering who will be liable for any inflicted damage.
@@ -29,19 +28,18 @@ The next social issue is the lack of algorithmic transparency. In fact, this can
 
 ### Ethical aspects:
 
-One of the most common ethical issues that would people face is the large number of unemployed people. There is a prediction, made by Oxford Economics, through which they announce that:[2]
+One of the most common ethical issues that would people face is the large number of unemployed people. At this point, taking task away from workers by robots, especially in the manufacturing sector, is becoming a common practice.[4] There is a prediction, made by Oxford Economics, through which they announce that:[2]
 
->Up to 20 million manufacturing jobs around the world could be replaced by robots by 2030. 
+>Up to 20 million manufacturing jobs around the world could be replaced by robots by 2030.
 
 This means that in the near future many and many people will have a hard time finding appropriate jobs in their sphere due to saturated working sector with artificial intelligence and robotics.
 
 Another crucial ethical issue is cybersecurity. This is a very big concern for lots of government systems and companies – mostly banks. For instance, robots can help protect vulnerabilities in bank systems, but hackers may find other methods of attacking and stealing money. This can cause both material and mental damage to people.
 
 Is it ethical enough to let robots have rights? If we look at the robots as a human-like object we would say yes. Actually, there are three main laws of robotics, developed by Isaac Asimov:[1]
-
 - a robot is not allowed to attack and injure humans
 - a robot is obliged to fulfil any orders, given by humans
-- a robot must protect itself
+- a robot must protect 
 
 Now if we refer to some of the legal issues, we could confirm that robots should not have rights since there is a huge chance of breaking one of the third laws. In case of any algorithm errors, this may have a counter-effect over the robot, and it could acquire very dangerous behavior towards human-beings.
 
@@ -53,6 +51,10 @@ Currently, almost every person prefers to spend more time using technology inste
 
 Moreover, another social issue is the growing dehumanization all over the world. People’s qualities and skills will become much more underestimated at the expense of robotics. Robots will be used in all areas as they will become an integral part of the world.
 
+# Conclusion:
+
+Generally, the human population lives in a digital world, full of different types of advanced technologies that aim to make people’s life easier. As the sphere of modern robotics and AI is one of those technologies and it is developing at very rapid paces, there are still some gaps that may reflect negatively not only over humans but even over the whole world. People should strive to overcome or at least to lower those issues in order to avoid severe effects over the economy, society and culture. 
+
 ### References:
 
 [1] https://mindmatters.ai/2019/09/the-three-laws-of-robotics-have-failed-the-robots/
@@ -60,3 +62,5 @@ Moreover, another social issue is the growing dehumanization all over the world.
 [2] https://www.oxfordeconomics.com/recent-releases/how-robots-change-the-world
 
 [3] https://www.sciencedirect.com/science/article/pii/S2666659620300056
+
+[4] https://www.economicsobservatory.com/how-are-robots-affecting-jobs-and-pay
