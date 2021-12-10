@@ -17,7 +17,7 @@ Actual hrs spent for the assignment: 10 hours
 
 Assignment evaluation (3 key points): Able to understand more about robotics and their ability to think like humans. Learnt about debates of robotics. Changed the way I thought about robotics.
 
-## Issues arising from Robotics being taught to think like us
+## Issues arising from Robotics and the complexity of their minds
 
 Artificial Intelligence and robotics are digital technologies that has a major importance on the development of the future and how we humans will live them and process these changes. Due to their functionality and importance, alot of ethical and legal issues have been arised and are arising on how they work, what they work with, the risks involved and the control of it. [1]
 
@@ -42,6 +42,12 @@ As robotics are human made, they are prone to articial problems. Teaching a robo
 Will robotics have rights as humans as they also think like us? as this robotics can think like us will they be treated like humans, and will their rights be valid just like us? [3] These all are questions to which humans would ask in the future becoming a norm for robotic AI’s as it does question our own morals as we already treat all living organisms thus if robotics think like us and are like us, would they be considered as living organisms? Because if that’s the case, it would divide the world especially in religion as this would be considered an act in playing as god.
 
 One of many issues ethically is what if it becomes a norm for robotic AI’s to think like us, feel like us and become like us, would they be considered as living organisms? Because if that’s the case, it would divide the world especially in religion as this would be considered an act in playing as god. As this majorly affects religious ethics, it would be denied to be accepted into society by multiple groups of people, if they were added to society however they would be treated as other living organisms such as animals but not be related to humans in any form or factor, thus only a minority of religious groups then accepting robotics with a different title.
+
+### Social Aspects
+As robotics have their ups and downs, it can have a massively positive social impact, in the movie "Alita: Battle Angel" one of the robots being a police robot, protects the area and does so fantastically well despite some hinderance here and there discussed above. This benefits the humans due to the fact they're more scared of the robot and that if a crime is happening or happened the advanced robotics can protect the citizen and exert justice, especially due to this robot running on algorithms rather than having their own mind. The negative side of this however is real life police men would become unemployed and due to the robots being prone to error, they still cannot be as efficient as humans in that field. If these robots had their own mind to follow, security can still be greatly improved or degraded as again, if we humans can become corrupt, so can artificial intelligience, if not, worse.
+
+### Conclusion
+Overall robotic minds and robots in general is an important topic to discuss and the ability that humans despite knowing the negative side of these robotics having the ability to have complex minds as close to humans, and want them to achieve this, can be considered an act of "God". As technology advances, we humans have been pushing the limits of tech, and have reached outrageous levels throughtout the development, and to think robotics are theorized to become almost human like, shows how far we've come and is justified. While robotics have their negative side, the positives are also there, but the following trend hidden within the discussion shows that if robotics had minds that are as complex as humans, their damage can be catastrophic and is where most of the negative impacts are lying. Therefore, this topic is a major debate and until the near future, all of these discussions are theories to what robotics can do, and maybe complex robotics can be a scraped idea in the future or it can be a major benefit for us in the future. Till then, robotics with complex minds is a topic where there is no definitive answer.
 
 ## References
 * [1] Main Source: https://www.sciencedaily.com/releases/2021/10/211026124247.htm
