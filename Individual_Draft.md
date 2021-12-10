@@ -29,6 +29,9 @@ Whilst war robots can provide faster and more decisive victories than human sold
 
 There is also the issue of other countries of learning and eventually developing war robots of their own. Most countries are already doing this already, with some already leading the US in some respects. This leads to the query of how one should terminate this treacherous cycle of arms proliferation.
 
+### Conclusion
+Overall, war robots continue to be upgraded and carry more responsibility when placed in war scenarios. One important aspect that would be discussed will be about how the war robot will react to certain situations that come during a war. This is because the general public already have certain opinions on these types of robots and how they behave, based off the films and news media they've watched. Robots will gradually replace human soldiers over time and the each stage of the development of war robots will be carefully scrutinised and assessed.
+
 ## References
 - https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=phil_fac
 - https://www.forbes.com/2009/06/18/military-robots-ethics-opinions-contributors-artificial-intelligence-09-patrick-lin.html?sh=5ecd932258da
