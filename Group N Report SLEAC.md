@@ -116,7 +116,7 @@ This report has established that a significant amount of consideration must be t
 * [5][A Local Law to amend the administrative code of the city of New York, in relation to prohibiting the police department from using a robot armed with a weapon](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4856756&GUID=716C2D7E-ED51-4C9E-9312-AB9529B6C812&Options=ID%7cText%7c&Search=, "Local law regulating use of armed robots within police")
 * [6][Robotics in Policing Review](https://www.uclalawreview.org/policing-police-robots/, "Robotics in Policing Review")
 * [7][Science news](https://www.sciencedaily.com/releases/2021/10/211026124247.htm ,"Teaching robots to think like us")
-* [8][All the Ethical Questions Surrounding AI and Robot Employees](https://www.peoplebank.com.au/blog/2017/11/
+* [8][All the Ethical Questions Surrounding AI and Robot Employees](https://www.peoplebank.com.au/blog/2017/11/all-the-ethical-questions-surrounding-ai-and-robot-employees , "Ethical impacts of robotics")
 * [9][Advantages of robotics with their capabilities of being like humans](https://www.roboticstomorrow.com/story/2018/08/7-advantages-of-robots-in-the-workplace/12342/ , "Robotics advantages in mindset")
 all-the-ethical-questions-surrounding-ai-and-robot-employees , "Ethical issues of robotic employees")
 * [10][Robotics the legal issues](https://www.bimplus.co.uk/robotics-legal-issues/ , "Legal issues of robotics")
