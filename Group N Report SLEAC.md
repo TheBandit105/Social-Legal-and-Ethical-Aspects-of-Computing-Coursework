@@ -4,6 +4,7 @@
 Module Code: CS3SC17<br>
 Assignment report Title: <insert your topic areas here><br>
 Student Numbers: 27015244, 28000034, 27003132, 28019806, 28010356<br>
+Authors: Shavin Croos, Daniyal Abbas, Romario Beyene, Mark Gibson, Denislav Stoynov<br>
 Date (when the work completed):<br>
 Actual hrs spent for the assignment: 10 hours<br>
 Assignment evaluation (3 key points): TBD<br>
